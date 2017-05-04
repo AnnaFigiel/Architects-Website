@@ -2,4 +2,4 @@
 
 **My website with Bootstrap**
 
-https://annafigiel.github.io/Architects-Website/
+https://annafigiel.github.io/Architects-website-with-Bootstrap/
