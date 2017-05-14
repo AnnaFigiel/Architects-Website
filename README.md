@@ -1,5 +1,5 @@
 # Architects-Website
 
-**My website with Bootstrap**
+**Website which uses Bootstrap**
 
 https://annafigiel.github.io/Architects-website-with-Bootstrap/
